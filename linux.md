@@ -85,8 +85,20 @@ Read files and command line data from top to bottom.
 
 - automate processes
 
+## Libraries
 
-
+- https://github.com/romkatv/powerlevel10k
+- https://github.com/sharkdp/bat
+- https://github.com/so-fancy/diff-so-fancy
+- https://github.com/antonmedv/fx
+- https://github.com/Peltoche/lsd
+- https://github.com/cantino/mcfly
+- https://github.com/orf/gping
+- https://www.jedsoft.org/most/
+- https://github.com/rakyll/hey
+- https://httpie.io/docs/cli
+- http://jonas.github.io/tig/
+- https://github.com/ajeetdsouza/zoxide
 
 ---
 
